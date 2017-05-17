@@ -45,6 +45,7 @@ public abstract class SmartPhone {
 	public abstract void pay();
 	
 	
+	
 	public void useSpecialFunctional(){
 		if(this instanceof IPhone){
 			IPhone b=(IPhone) this;
