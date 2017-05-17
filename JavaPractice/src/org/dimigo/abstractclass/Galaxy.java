@@ -14,7 +14,7 @@ package org.dimigo.abstractclass;
  *
  * @author : SJY
  * @version : 1.0
- */
+ */ 
 public class Galaxy extends SmartPhone {
 	public Galaxy(){
 		

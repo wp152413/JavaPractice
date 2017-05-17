@@ -19,7 +19,7 @@ public class SmartPhoneTest {
 
 	/**
 	 * @param args
-	 */
+	 */ 
 	public static void main(String[] args) {
 		
 		SmartPhone [] arr={

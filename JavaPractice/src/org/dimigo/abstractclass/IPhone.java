@@ -3,7 +3,7 @@
  */
 package org.dimigo.abstractclass;
 
-/**
+/** 
  * <pre>
  * org.dimigo.inheritance
  *  |_IPhone
