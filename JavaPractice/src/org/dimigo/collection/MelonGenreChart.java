@@ -51,6 +51,7 @@ public class MelonGenreChart {
 		System.out.println("--<<전체 리스트 삭제>>--");
 		map.clear();
 		printMap(map);
+		 
 		
 	}
 	
